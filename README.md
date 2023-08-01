@@ -1,4 +1,7 @@
 # To Do List Web App
-### Version 2 -- Storing data in MongoDB.
 
-##### Deployed on Heroku: https://secure-beach-00200-88616a96c563.herokuapp.com/
+#### Main page
+![Todo list](readme/Todos.png)
+
+#### Version 2
+This is a to-do list built by Node.js and Express.js. It stores data in MongoDB.
